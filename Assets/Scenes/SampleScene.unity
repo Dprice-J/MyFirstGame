@@ -247,7 +247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  lookSpeed: 350
+  lookSpeed: 500
   camera: {fileID: 963194228}
 --- !u!1 &495009293
 GameObject:
